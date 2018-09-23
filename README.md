@@ -12,7 +12,7 @@ See [templates](https://github.com/tbhaxor/morphine/wiki/Templates)
 _Table of content_
 1. [What is morphine](https://github.com/tbhaxor/morphine/wiki/What-is-Morphine)
 2. [Why should you use morphine](https://github.com/tbhaxor/morphine/wiki/Why-should-you-use-morphine)
-3. [Requirements and Dependencies](https://github.com/tbhaxor/morphine/wiki/Requirements-and-Dependecies)
+3. [Requirements and Dependencies](https://github.com/tbhaxor/morphine/wiki/Requirements-and-Dependencies)
 4. [Setup morphine on your local machine](https://github.com/tbhaxor/morphine/wiki/Setup-Morphine-on-your-Local-Machine)
 5. [Templates](https://github.com/tbhaxor/morphine/wiki/Why-should-you-use-morphine)
     + [Mimimal](https://github.com/tbhaxor/morphine/wiki/Templates#minimal)
