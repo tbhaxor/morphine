@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='morphine-maker',
     packages=['morphine'],
-    version='2.0.1',
+    version='2.0.2',
     author='Gurkirat Singh',
     author_email='tbhaxor@gmail.com',
     url='https://github.com/tbhaxor/morphine',
@@ -36,4 +36,4 @@ setup(
         'License :: OSI Approved :: MIT License'
     ],
     python_requires='>=2, >=3',
-    entry_points={'console_scripts': ['morphine-maker=morphine.startup:main']})
+    entry_points={'gui_scripts': ['morphine=morphine.startup:main']})
