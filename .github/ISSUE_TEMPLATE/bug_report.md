@@ -27,8 +27,5 @@ Steps to reproduce the behavior:
  - OS: 
  - Version: 
 
-**Bashit Details**
- - Version: 
-
 **Additional context**
 <!--Add any other context about the problem here.-->
